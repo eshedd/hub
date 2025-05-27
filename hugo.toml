@@ -1,0 +1,4 @@
+baseURL = 'https://eshedd.github.io/hub/'
+languageCode = 'en-us'
+title = 'Ethan Shedd'
+theme = 'xmin'
